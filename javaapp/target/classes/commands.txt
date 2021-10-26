@@ -1,0 +1,6 @@
+open chrome
+close chrome
+open microsoft edge
+close microsoft edge
+open mozilla firefox
+close mozilla firefox
